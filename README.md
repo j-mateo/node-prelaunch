@@ -1,6 +1,6 @@
 <a href="https://node-prelaunch.herokuapp.com"><img src="https://cloud.githubusercontent.com/assets/399776/8070534/d1f74496-0eb6-11e5-81b9-b70627d4340b.png" width="100%" alt="screenshot"></a>
 
-# node-prelaunch
+# yilb-prelaunch
 
 A prelaunch sign up app, written in node.js, powered by MongoDB & [Mailgun](http://www.mailgun.com/).
 
